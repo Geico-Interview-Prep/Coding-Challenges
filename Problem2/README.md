@@ -6,7 +6,9 @@ as any characters separated by spaces. Punctuation will not be included in the i
 Capitalization can be ignored. Output the word (lowercased), a colon, and then the count of the word, **in alphabetical
 order.**
 
-**Hint:** Use a map
+<br>
+
+**Note: YOU CANNOT USE REGEX!**
 
 <br>
 
@@ -22,4 +24,3 @@ order.**
 
 <br>
 
-**YOU CANNOT USE REGEX!**

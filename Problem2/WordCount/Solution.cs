@@ -9,7 +9,8 @@
  */
 public class Solution
 {
-    public string WordCount(string sentence) {
+    public string WordCount(string sentence)
+    {
         throw new System.Exception("Todo! Needs implementation...");
     }
 }
