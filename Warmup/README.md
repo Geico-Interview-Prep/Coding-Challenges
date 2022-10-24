@@ -1,6 +1,5 @@
 # Warmup
 
----
 
 Given two strings **s1** and **s2**, return true if **s1** or **s2** can be rearranged to equal each other. For example cinema, can be formed into iceman.
 
