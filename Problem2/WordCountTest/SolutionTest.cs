@@ -12,7 +12,7 @@ public class SolutionTest
     {
         string sentence = "The big dog jumped high    over the lazy red fox  and the man with the  red hat sat high  in the chair and laughed";
         string ans = "and: 2\nhigh: 2\nred: 2\nthe: 5";
-        Assert.Equals(ans, solution.WordCount(sentence));
+        Assert.AreEqual(ans, solution.WordCount(sentence));
     }
 
     [TestMethod]
@@ -20,7 +20,7 @@ public class SolutionTest
     {
         string sentence = "Big blue red   Orange biG small  Purple  black white  white Red red";
         string ans = "big: 2\nred: 3\nwhite: 2";
-        Assert.Equals(ans, solution.WordCount(sentence));
+        Assert.AreEqual(ans, solution.WordCount(sentence));
     }
 
     [TestMethod]
@@ -28,6 +28,6 @@ public class SolutionTest
     {
         string sentence = "java javascript   python book book club pack backpack";
         string ans = "book: 2";
-        Assert.Equals(ans, solution.WordCount(sentence));
+        Assert.AreEqual(ans, solution.WordCount(sentence));
     }
 }
