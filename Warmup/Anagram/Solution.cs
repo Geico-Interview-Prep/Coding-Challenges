@@ -9,8 +9,8 @@ namespace Anagram;
  */
 public class Solution
 {
-    public Boolean IsAnagram(string s1, string s2)
+    public bool IsAnagram(string s1, string s2)
     {
-        throw new Exception("Todo! Needs implementation...");
+        throw new System.Exception("Todo! Needs implementation...");
     }
 }
