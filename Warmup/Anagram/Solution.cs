@@ -5,7 +5,7 @@ namespace Anagram;
  * Implement the method below
  * 
  * To get full points on this problem, you must pass all tests uder AnagramTest/SolutionTest.cs
- * command: dotnet test Warmup/AnagramTest/AnagramTest.csproj
+ * command: dotnet test ./AnagramTest/AnagramTest.csproj
  */
 public class Solution
 {
